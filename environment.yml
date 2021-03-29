@@ -1,0 +1,19 @@
+name: reagent
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - pip:
+      - torch==1.6.0
+      - torchvision==0.7.0
+      - numpy==1.19.1
+      - scipy==1.5.2
+      - tqdm==4.48.2
+      - prefetch_generator==1.0.1
+      - transforms3d==0.3.1
+      - tensorboard==2.4.1
+      - trimesh==3.9.9
+      - opencv-python==4.5.1.48
+      - matplotlib==3.3.4
+      - drawnow==0.72.5
+      - h5py==3.1.0
