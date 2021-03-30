@@ -1,6 +1,6 @@
 # ReAgent: Point Cloud Registration using Imitation and Reinforcement Learning
 This repository implements the approach described in *ReAgent: Point Cloud Registration using Imitation and 
-Reinforcement Learning* (CVPR 2021).
+Reinforcement Learning* (CVPR 2021, [arXiv](https://arxiv.org/abs/2103.15231)).
 
 ![Iterative registration using ReAgent](resources/teaser-m40.png)
 
