@@ -1,6 +1,8 @@
 # ReAgent: Point Cloud Registration using Imitation and Reinforcement Learning
 This repository implements the approach described in *ReAgent: Point Cloud Registration using Imitation and 
-Reinforcement Learning* (CVPR 2021, [arXiv](https://arxiv.org/abs/2103.15231)).
+Reinforcement Learning* ([CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Bauer_ReAgent_Point_Cloud_Registration_Using_Imitation_and_Reinforcement_Learning_CVPR_2021_paper.html), [arXiv](https://arxiv.org/abs/2103.15231)).
+
+Also check our follow-up work on reinforced object pose refinement, [SporeAgent](https://github.com/dornik/sporeagent).
 
 ![Iterative registration using ReAgent](resources/teaser-m40.png)
 
@@ -127,6 +129,8 @@ If you use this repository in your publications, please cite
     title={ReAgent: Point Cloud Registration using Imitation and Reinforcement Learning},
     author={Bauer, Dominik and Patten, Timothy and Vincze, Markus},
     booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2021}
+    month={June},
+    year={2021},
+    pages={14586-14594}
 }
 ```
